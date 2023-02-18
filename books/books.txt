@@ -1,0 +1,7 @@
+Assimilating RubyMine	Dave Jones	2013	66	1849698767
+Kotlin Programming: The Big Nerd Ranch Guide	Josh Skeen	2018	384	0135161630
+Kotlin In-Depth [Vol-I]: A Comprehensive Guide to Modern Multi-Paradigm Language	Aleksei Sedunov	2020	338	9389328586
+Learning React Native: Building Native Mobile Apps with JavaScript	Bonnie Eisenman	2017	242	1491989149
+The Wayfarer Redemption	Sara Douglass	2001	672	0765341301
+Winnie-the-Pooh	A. A. Milne	1988	176	0525444432
+Enchanter (Book Two of The Wayfarer Redemption)	Sara Douglass	2002	688	0765341964
